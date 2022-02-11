@@ -12,7 +12,9 @@ Write your design steps here
 Write your design steps here
 
 ## OUTPUT:
-include your output screenshots 
+![output1](./1.jpeg)
+![output2](./2.jpeg)
+![output3](3.jpeg)
 
 
 ## Result:
