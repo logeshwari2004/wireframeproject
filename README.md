@@ -14,7 +14,7 @@ Write your design steps here
 ## OUTPUT:
 ![output1](./1.jpeg)
 ![output2](./2.jpeg)
-![output3](3.jpeg)
+![output3](./3.jpeg)
 
 
 ## Result:
